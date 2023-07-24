@@ -16,14 +16,14 @@ const Work = () => {
           </p>
           <p className="py-6">//Check out some of my recent works</p>
         </div>
-        {/* CONTAINER */}
+       
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
-          {/* Grid Item */}
+          
           <div
             style={{ backgroundImage: `url(${giftofblood}` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
-            {/* Hover Effects */}
+          
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider"></span>
               <div className="pt-8 text-center">
@@ -41,7 +41,7 @@ const Work = () => {
             style={{ backgroundImage: `url(${mechdate}` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
-            {/* Hover Effects */}
+           
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider"></span>
               <div className="pt-8 text-center">
@@ -59,7 +59,7 @@ const Work = () => {
             style={{ backgroundImage: `url(${bookshop}` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
-            {/* Hover Effects */}
+         
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider"></span>
               <div className="pt-8 text-center">
@@ -76,7 +76,7 @@ const Work = () => {
             style={{ backgroundImage: `url(${biodoor}` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
-            {/* Hover Effects */}
+         
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider"></span>
               <div className="pt-8 text-center">
@@ -93,7 +93,7 @@ const Work = () => {
             style={{ backgroundImage: `url(${mobile}` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
-            {/* Hover Effects */}
+            
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider"></span>
               <div className="pt-8 text-center">
