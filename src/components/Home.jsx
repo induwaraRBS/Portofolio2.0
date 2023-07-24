@@ -15,9 +15,7 @@ const Home = () => {
           I'm a full-stackDevloper.
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste id,
-          perferendis ut quis at nisi aperiam vitae sit dolore facere vero modi
-          tempora porro provident. Accusamus odio culpa suscipit debitis.
+        As an Fresh graduate computer science student, I have gained a solid foundation in programming languages, software development methodologies, and problem-solving skills.
         </p>
         <div>
           <button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600">

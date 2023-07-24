@@ -20,14 +20,12 @@ const About = () => {
             </div>
             <div>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Voluptates quos cupiditate neque omnis, corporis dolorum
-                molestiae! Non suscipit ipsa temporibus minus commodi, laborum,
-                expedita ullam ea molestias minima neque sapiente! Lorem ipsum
-                dolor sit amet consectetur adipisicing elit. Veritatis ex
-                numquam esse iure obcaecati, veniam inventore saepe quis
-                nesciunt reiciendis! Illo quod nobis ratione dolores id! Fuga
-                accusamus et porro!
+              I am an enthusiastic Computer Science Fresh Graduate student who is
+ interested in the  Software Engineering. I can describe myself as a punctual , honest person
+ and I m dedicated to anything I am interested in and my effort is growing as a good
+person with a good personality, as a professional, and moving forward at every time.
+ Highly self-motivated and Self-learning every day with every experience  to gain
+  knowledge ,  are the main priorities and future goals in my life.
               </p>
             </div>
           </div>
